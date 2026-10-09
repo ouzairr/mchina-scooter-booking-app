@@ -69,10 +69,7 @@ lib/
 ## Screenshots
 
 
- <img width="1200" height="1600" alt="WhatsApp Image 2026-10-07 at 10 34 21" src="https://github.com/user-attachments/assets/bea2e43a-ca39-4f57-b811-bda70d7a61fa" />
-<img width="1200" height="1600" alt="WhatsApp Image 2026-10-07 at 10 34 21 (1)" src="https://github.com/user-attachments/assets/d9a3b6da-cb69-4a9e-820d-a5c03fd4b7eb" />
-<img width="1200" height="1600" alt="WhatsApp Image 2026-10-07 at 10 34 21 (2)" src="https://github.com/user-attachments/assets/da817597-8c36-40c3-8347-1a01bcc0399e" />
-<img width="1200" height="1600" alt="WhatsApp Image 2026-10-07 at 10 34 21 (3)" src="https://github.com/user-attachments/assets/ad537c32-1e85-41db-b073-4a8001bb1030" />
+THEY WILL BE AVAILABLE ONCE THE PROJECT IS COMPLETED
 
 
 
